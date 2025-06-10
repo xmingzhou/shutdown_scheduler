@@ -1,6 +1,78 @@
-好的，这是一个基于你提供的 Python 代码 `shutdown_scheduler_multi_lang.py` 编写的 `README` 文件。
 
----
+
+# Shutdown/Restart Scheduler
+
+A simple and easy-to-use desktop application to schedule a shutdown or restart for your computer. It supports multiple languages and offers various quick-setting options.
+
+## Features
+
+* **Multi-language Support**: Currently supports Chinese, English, French, and Japanese.
+* **Operation Type Selection**: Choose between "Shutdown" or "Restart" operations.
+* **Precise Time Setting**: Users can precisely set the year, month, day, hour, minute, and second to schedule the task.
+* **Quick Setting Options**:
+    * Shutdown/restart after 10, 30 minutes, 1, 2, 4, or 8 hours.
+    * Shutdown/restart tomorrow morning at 7:30 AM.
+    * Shutdown/restart tomorrow morning at 8:00 AM.
+    * Shutdown/restart next Saturday morning at 7:30 AM.
+* **Task Status Display**: Shows the current status of any scheduled task.
+* **Task Cancellation**: Easily cancel any scheduled task at any time.
+* **Cross-platform Compatibility**: Supports Windows, Linux, and macOS operating systems.
+
+## Screenshots
+
+As I cannot generate images directly, please run the application to see the interface.
+
+## How to Run
+
+1.  **Prepare Python Environment**:
+    Ensure you have Python 3.x installed on your computer. You can download and install it from the [official Python website](https://www.python.org/downloads/).
+
+2.  **Install Dependencies**:
+    This project relies on `tkinter`, which usually comes bundled with Python. If it's missing from your Python environment, you might need to install it separately (though this is uncommon).
+
+3.  **Download the Code**:
+    Download the `shutdown_scheduler_multi_lang.py` file to your local machine.
+
+4.  **Run the Application**:
+    Open a terminal or command prompt, navigate to the directory where you saved the file, and run the following command:
+
+    ```bash
+    python shutdown_scheduler_multi_lang.py
+    ```
+
+    The application window will appear.
+
+## Usage
+
+1.  **Select Language**: Choose your preferred language from the top-right corner of the interface.
+2.  **Select Operation Type**: In the "Operation Type" section, choose either "Shutdown" or "Restart".
+3.  **Set Time**:
+    * **Manual Setting**: Use the dropdown menus for year, month, day, hour, minute, and second to precisely set when you want the task to execute.
+    * **Quick Settings**: Click on the "Quick Shutdown Options" buttons below, such as "30 minutes later", "Tomorrow 7:30", etc., to quickly set a task for a predefined time.
+4.  **Set Task**: Click the "Set Task" button to schedule your chosen operation.
+5.  **Cancel Task**: If you wish to cancel a scheduled task, click the "Cancel Task" button.
+6.  **View Status**: The "Status" area will display the current task status.
+
+## Important Notes
+
+* On Linux or macOS systems, setting shutdown/restart tasks might require `sudo` privileges. The application will attempt to execute `sudo shutdown` commands, which may prompt you for your administrator password.
+* Ensure that the time you set is later than the current time; otherwise, the application will display an error.
+* When canceling a task on Windows, the application will attempt to execute the cancellation command (`shutdown /a`) even if no task is actively scheduled. This is to ensure any potential pending tasks are cleared.
+
+## Developer
+
+© 2025 ZXM
+
+
+
+
+
+
+
+
+
+
+
 
 # 定时关机/重启程序
 
