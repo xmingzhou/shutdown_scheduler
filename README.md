@@ -1,42 +1,42 @@
-# The Shutdown Scheduler program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
+ The Shutdown Scheduler program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
 
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-# GNU General Public License for more details.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
 
-# You should have received a copy of the GNU General Public License
-# along with this program. If not, see <https://www.gnu.org/licenses/>.
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-# Copyright (c) 2025 Xiangming Zhou
+ Copyright (c) 2025 Xiangming Zhou
 
-# SUPPLEMENTARY DISCLAIMER
-# The copyright holder assumes no responsibility for any illegal use of this software,
-# or for any data loss, damages, or other liabilities arising directly or indirectly
-# from its use. The user of this software assumes all risks and full responsibility
-# for compliance with all applicable local, national, and international laws.
-# If you find this software useful, a voluntary economic contribution to the author
-# is appreciated but not required.
+ SUPPLEMENTARY DISCLAIMER
+ The copyright holder assumes no responsibility for any illegal use of this software,
+ or for any data loss, damages, or other liabilities arising directly or indirectly
+ from its use. The user of this software assumes all risks and full responsibility
+ for compliance with all applicable local, national, and international laws.
+ If you find this software useful, a voluntary economic contribution to the author
+ is appreciated but not required.
 
 
-# 自动关机程序软件是自由软件：您可以根据自由软件基金会发布的GNU通用公共许可证条款重新分发和/或修改它，
-# 无论是许可证的第3版，或者是（由您选择）任何后续版本。
+ 自动关机程序软件是自由软件：您可以根据自由软件基金会发布的GNU通用公共许可证条款重新分发和/或修改它，
+ 无论是许可证的第3版，或者是（由您选择）任何后续版本。
 
-# 此程序是本着对您有用的目的而分发的，
-# 但不提供任何担保；甚至不包括适销性或适用于特定用途的隐含担保。有关更多详情，请参阅GNU通用公共许可证。
+ 此程序是本着对您有用的目的而分发的，
+ 但不提供任何担保；甚至不包括适销性或适用于特定用途的隐含担保。有关更多详情，请参阅GNU通用公共许可证。
 
-# 您应该已经随此程序一起收到了GNU通用公共许可证的副本。
-# 如果没有，请参见<https://www.gnu.org/licenses/>.
+ 您应该已经随此程序一起收到了GNU通用公共许可证的副本。
+ 如果没有，请参见<https://www.gnu.org/licenses/>.
 
-# Copyright (c) 2025 Xiangming Zhou
+ Copyright (c) 2025 Xiangming Zhou
 
-# 补充免责声明
-# 版权持有人不对本软件的任何非法使用，或因使用本软件直接或间接引起的数据丢失、损害或其他责任承担任何责任。
-# 本软件的使用者需自行承担所有风险，并对遵守所有适用的地方、国家和国际法律负全责。
-# 如果您发现此软件有用，虽然作者感激您的自愿经济贡献，但这并不是强制要求的。
+ 补充免责声明
+ 版权持有人不对本软件的任何非法使用，或因使用本软件直接或间接引起的数据丢失、损害或其他责任承担任何责任。
+ 本软件的使用者需自行承担所有风险，并对遵守所有适用的地方、国家和国际法律负全责。
+ 如果您发现此软件有用，虽然作者感激您的自愿经济贡献，但这并不是强制要求的。
 
 
 ---
