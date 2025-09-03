@@ -1,3 +1,18 @@
+### **Binary encapsulated exe software**
+您可以在release区域下载“.exe”格式的软件
+You can download software for '.exe' format in the release area
+<img width="345" height="117" alt="image" src="https://github.com/user-attachments/assets/19433020-e706-47c8-b00f-b1049a59ac29" />
+<img width="241" height="137" alt="image" src="https://github.com/user-attachments/assets/eac15e6c-ec0a-421d-bfd6-b393126b71ad" />
+
+
+
+### **GUI interface**
+GUI interface
+<img width="683" height="590" alt="image" src="https://github.com/user-attachments/assets/688a4001-d450-4737-bc70-ca12fb76d8df" />
+<img width="684" height="598" alt="image" src="https://github.com/user-attachments/assets/de185f61-dda5-48d5-9e0e-28299bd6c22a" />
+
+### **License Description**
+
  The Shutdown Scheduler program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation, either version 3 of the License, or
